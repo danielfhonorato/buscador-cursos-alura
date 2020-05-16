@@ -1,0 +1,12 @@
+{
+    "name": "dfhonorato/buscador-cursos",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Daniel Honorato",
+            "email": "daniel.fhonorato@gmail.com"
+        }
+    ],
+    "require": {}
+}

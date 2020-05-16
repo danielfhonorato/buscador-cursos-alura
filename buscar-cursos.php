@@ -1,9 +1,9 @@
 <?php
 
 require 'vendor/autoload.php';
-require 'src/Buscador.php'; # como não é uma classe que faz parte do composer (não vai ser carregada pelo autoload), tem que explicitamente carregar
+#require 'src/Buscador.php'; # como não é uma classe que faz parte do composer (não vai ser carregada pelo autoload), tem que explicitamente carregar
 
-use BuscadorDeCursos\Buscador;
+use Alura\BuscadorDeCursos\Buscador;
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
 

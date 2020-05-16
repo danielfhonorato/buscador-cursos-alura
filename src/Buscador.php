@@ -1,7 +1,7 @@
 <?php
 
 
-namespace BuscadorDeCursos;
+namespace Alura\BuscadorDeCursos;
 
 
 use GuzzleHttp\ClientInterface;

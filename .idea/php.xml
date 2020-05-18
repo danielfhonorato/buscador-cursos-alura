@@ -58,6 +58,7 @@
       <path value="$PROJECT_DIR$/vendor/sabre/event" />
       <path value="$PROJECT_DIR$/vendor/phan/phan" />
       <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/phan/.phan" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />

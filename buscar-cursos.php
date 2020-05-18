@@ -3,9 +3,14 @@
 require 'vendor/autoload.php';
 #require 'src/Buscador.php'; # como não é uma classe que faz parte do composer (não vai ser carregada pelo autoload), tem que explicitamente carregar
 
+
 use Alura\BuscadorDeCursos\Buscador;
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
+
+
+Teste::metodo();
+exit();
 
 # para resolver o erro de certificado
 # https://cursos.alura.com.br/forum/topico-curl-error-60-ssl-certificate-problem-85798
